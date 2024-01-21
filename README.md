@@ -1,5 +1,7 @@
 # 🎰 My Games
-Explore the YouTube videos by clicking on the screenshots below! 📺
+### Explore the YouTube videos by clicking on the screenshots below! 📺
+
+📝 These are just a curated selection of my games! Many other amazing ones are not listed here.
 
 | **Deutsche Artikel** | **Arcade Merge** | **Clothes & Ropes** |
 |----------------------|------------------|----------------------|
